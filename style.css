@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(110, 110, 255);
+}
+li.lista{
+    list-style: none;
+    background-image: url(/cimer.jpg);
+    background-repeat: no-repeat;
+    background-size: 12px 12px;
+    background-position: left center;
+    padding-left: 24px;
+    margin-bottom: 4px;
+}
