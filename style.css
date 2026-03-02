@@ -46,3 +46,19 @@ li.lista {
 footer {
     margin-top: 20px;
 }
+.Mester {
+    width: 25%;
+    height: 200px;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin:auto;
+    display: block;
+}
+.marcello {
+    width: 25%;
+    height: 200px;
+    border-radius: 8px;
+    margin-top: 15px;
+    margin:auto;
+    display: block;
+}
