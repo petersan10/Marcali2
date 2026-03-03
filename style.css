@@ -58,9 +58,20 @@ footer {
     width: 25%;
     height: 150px;
     border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
 }
+.Mester:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
 .marcello {
     width: 25%;
     height: 150px;
     border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.marcello:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
 }
